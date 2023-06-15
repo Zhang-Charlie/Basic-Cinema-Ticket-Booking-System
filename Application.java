@@ -21,7 +21,6 @@ public class Application
 		
 	static DecimalFormat currency = new DecimalFormat("0.00"); //Instance of the DecimalFormat class and storing it in a class for currency.
 	static Scanner input = new Scanner(System.in);	// Allows you to store users input
-	
 	static int adminCode = 1234; // Code for admin to get in 
 	
 	
